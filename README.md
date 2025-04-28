@@ -1,4 +1,4 @@
-# Stock Market Prediction – Deep Learning Models
+# Hybrid Data Driven Similarity Measures Sentiment Prediction Using Deep Learning Models
 
 This project predicts stock market movements (Up/Down) based on daily news headlines using deep learning models.
 
