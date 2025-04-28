@@ -88,6 +88,6 @@ pip install pandas numpy scikit-learn tensorflow matplotlib seaborn
 [GitHub Profile](https://github.com/SriVenkateshMani)
 
 **Hithaesh**  
-[GitHub Profile](https://github.com/SriVenkateshMani)
+[GitHub Profile](https://github.com/Hithaesh)
 
 
